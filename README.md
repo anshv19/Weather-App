@@ -1,2 +1,3 @@
 # Weather-App
-A Weather App made using React Js and Tailwind CSS.
+A Weather App made using React and Tailwind CSS.
+# Weather-App
